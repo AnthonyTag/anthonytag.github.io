@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0 "xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="https://www.spotify.com/ns/rss">
+<channel>
+    <title>Back On Topic</title>
+    <link>https://soundcloud.com/backontopic</link>
+    <!--<description>####</description>-->
+    <language>en-us</language>
+    <itunes:author>Back On Topic</itunes:author>
+    <!--<itunes:image href="####"/>-->
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:category text="Comedy"/>
+    <itunes:complete>no</itunes:complete>
+    
+    <!-- EPISODE 1 -->
+    <item>
+        
+    </item>
+</channel>
+</rss>
