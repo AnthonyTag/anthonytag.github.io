@@ -1,19 +1,47 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0 "xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="https://www.spotify.com/ns/rss">
 <channel>
     <title>Back On Topic</title>
     <link>https://soundcloud.com/backontopic</link>
-    <!--<description>####</description>-->
+    <description></description>
     <language>en-us</language>
     <itunes:author>Back On Topic</itunes:author>
-    <!--<itunes:image href="####"/>-->
+    <itunes:image href=""/>
+    <itunes:owner>
+        <itunes:name>Anthony</itunes:name>
+        <itunes:email>contact.backontopic@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:category text="Comedy"/>
     <itunes:complete>no</itunes:complete>
+    <!-- CLIP 1.1 -->
+    <item>
+        <guid isPermaLink="false">eead0860-0d29-49e7-a49c-1c6eb8fc0ecb</guid>
+        <pubDate>Thu, 20 Jun 2019 19:50:14 +0000</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>bonus</itunes:episodeType>
+        <title>Dino Introduces The Guys</title>
+        <description>Taken from episode 1 when Dino does all the work and takes over introducing Tyler, Jonathan, and Anthony. Greg on the other hand spoke enough on his own.</description>
+        <itunes:duration>248</itunes:duration>
+        <itunes:image href=""/>
+        <itunes:explicit>yes</itunes:explicit>
+        <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
+    </item>
     
     <!-- EPISODE 1 -->
     <item>
-        
+        <guid isPermaLink="false">0ccab4ae-7810-4269-b726-419fce8f7054</guid>
+        <pubDate>Thu, 20 Jun 2019 19:48:11 +0000</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <title>Crashing Friends' Cars</title>
+        <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crashing stories they have to share. We are amazing with first impressions as you can tell.</description>
+        <itunes:duration>3317</itunes:duration>
+        <itunes:image href=""/>
+        <itunes:explicit>yes</itunes:explicit>
+        <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
     </item>
 </channel>
 </rss>
