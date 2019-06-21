@@ -6,7 +6,7 @@
     <description>From the morons that brought you That Loud Honda and The The Turk from Greece, the brand new dumb milenial idea of bringing a podcast you didn't ask for. Straight out of their mom's basement, join Gregory, Anthony, Guzman, Dino, and other idiots in Back On Topic, a podcast about their attempts and failures in life as they constantly talk over each other and make no sense whatsoever. Maybe some facts or wisdom will poke through, but probably not.</description>
     <language>en-us</language>
     <itunes:author>Back On Topic</itunes:author>
-    <itunes:image href=""/>
+    <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
     <itunes:owner>
         <itunes:name>Anthony</itunes:name>
         <itunes:email>contact.backontopic@gmail.com</itunes:email>
@@ -25,7 +25,7 @@
         <title>Dino Introduces The Guys</title>
         <description>Taken from episode 1 when Dino does all the work and takes over introducing Tyler, Jonathan, and Anthony. Greg on the other hand spoke enough on his own.</description>
         <itunes:duration>248</itunes:duration>
-        <itunes:image href=""/>
+        <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
         <itunes:explicit>yes</itunes:explicit>
         <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
     </item>
@@ -40,7 +40,7 @@
         <title>Crashing Friends' Cars</title>
         <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crashing stories they have to share. We are amazing with first impressions as you can tell.</description>
         <itunes:duration>3317</itunes:duration>
-        <itunes:image href=""/>
+        <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
         <itunes:explicit>yes</itunes:explicit>
         <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
     </item>
