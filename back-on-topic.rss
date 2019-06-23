@@ -3,7 +3,6 @@
     <channel>
         <title>Back On Topic</title>
         <link>https://soundcloud.com/backontopic</link>
-        <atom:link href="https://anthonytag.github.io/back-on-topic.rss" rel="self" type="application/rss+xml"/>
         <description>A podcast</description>
         <language>en</language>
         <itunes:image href="https://podcast.rss.com/backontopic/images/itunes_image.jpg"/>
@@ -18,7 +17,7 @@
             <itunes:email>contact.backontopic@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:category text="Comedy">
+        <itunes:category text="Comedy"/>
 
         <!-- EPISODE 1 -->
         <item>
