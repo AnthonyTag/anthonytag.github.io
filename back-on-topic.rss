@@ -28,7 +28,6 @@
         <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
         <itunes:explicit>Yes</itunes:explicit>
         <link>https://soundcloud.com/backontopic/dino-introduces-the-guys</link>
-        <content:encoded><![CDATA[<a href="https://soundcloud.com/backontopic/dino-introduces-the-guys">Dino Introduces The Guys</a>]]></content:encoded>
     </item>
 
     <!-- EPISODE 1 -->
@@ -44,7 +43,6 @@
         <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
         <itunes:explicit>Yes</itunes:explicit>
         <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
-        <content:encoded><![CDATA[<a href="https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1">Crashing Friends' Cars</a>]]></content:encoded>
     </item>
 </channel>
 </rss>
