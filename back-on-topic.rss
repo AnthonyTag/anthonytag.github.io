@@ -1,12 +1,13 @@
-<rss version="2.0">
+<rss xml:lang="en" version="2.0">
     <channel>
         <title>Back On Topic</title>
         <link>https://soundcloud.com/backontopic</link>
-        <description>From the morons that brought you That Loud Honda and The FAKE Greek, cthe brand new dumb milenial idea of bringing a podcast you didn't ask for. Straight out of their mom's basement, join Gregory, Anthony, Guzman, Dino, and other idiots in Back On Topic, a podcast about their attempts and failures in life as they constantly talk over each other and make no sense whatsoever. Maybe some facts or wisdom will poke through, but probably not.</description>
+        <atom:link href="https://anthonytag.github.io/back-on-topic.rss" rel="self" type="application/rss+xml"/>
+        <description>A podcast</description>
         <language>en</language>
-        <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"></itunes:image>
+        <itunes:image href="https://podcast.rss.com/backontopic/images/itunes_image.jpg"/>
         <image>
-            <url>https://anthonytag.github.io/bot-logo.jpeg</url>
+            <url>https://podcast.rss.com/backontopic/images/itunes_image.jpg</url>
             <title>Back On Topic</title>
             <link>https://soundcloud.com/backontopic</link>
         </image>
@@ -18,28 +19,12 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:category text="Comedy">
 
-        <!-- CLIP 1.1 -->
-        <item>
-            <title>Dino Introduces The Guys</title>
-            <description>Taken from episode 1 when Dino does all the work and takes over introducing Tyler, Jonathan, and Anthony. Greg on the other hand spoke enough on his own.</description>
-            <link>https://soundcloud.com/backontopic/dino-introduces-the-guys</link>
-            <enclosure url="https://soundcloud.com/backontopic/dino-introduces-the-guys" length="106094432" type="audio/mpeg"/>
-            <guid isPermaLink="false">eead0860-0d29-49e7-a49c-1c6eb8fc0ecb</guid>
-            <itunes:duration>248</itunes:duration>
-            <itunes:author>Dino Gonias</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>bonus</itunes:episodeType>
-            <pubDate>Thu, 20 Jun 2019 19:50:14 +0000</pubDate>
-        </item>
-
         <!-- EPISODE 1 -->
         <item>
             <title>Crashing Friends' Cars</title>
-            <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crash stories they have to share. We are amazing with first impressions as you can tell.</description>
-            <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
-            <enclosure url="https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1" type="audio/mpeg"/>
+            <description>Episode 1</description>
+            <link>https://podcast.rss.com/backontopic/?name=2019-06-23_attempt1_au_tracks_audio_1.mp3</link>
+            <enclosure url="https://podcast.rss.com/backontopic/?name=2019-06-23_attempt1_au_tracks_audio_1.mp3" length="106094432" type="audio/mpeg"/>
             <guid isPermaLink="false">0ccab4ae-7810-4269-b726-419fce8f7054</guid>
             <itunes:duration>3317</itunes:duration>
             <itunes:author>Gregory Nemesdy</itunes:author>
