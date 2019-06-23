@@ -5,7 +5,7 @@
         <link>https://soundcloud.com/backontopic</link>
         <description>A podcast</description>
         <language>en</language>
-        <itunes:image href="https://podcast.rss.com/backontopic/images/itunes_image.jpg"/>
+        <itunes:image href="https://podcast.rss.com/backontopic/images/itunes_image.jpg" />
         <image>
             <url>https://podcast.rss.com/backontopic/images/itunes_image.jpg</url>
             <title>Back On Topic</title>
