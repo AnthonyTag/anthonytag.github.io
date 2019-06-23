@@ -11,8 +11,8 @@
         <itunes:name>Anthony</itunes:name>
         <itunes:email>contact.backontopic@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>yes</itunes:explicit>
-    <itunes:category text="Comedy"/>
+    <itunes:explicit>Yes</itunes:explicit>
+    <itunes:category text="Comedy"></itunes:category>
     <itunes:complete>no</itunes:complete>
 
     <!-- CLIP 1.1 -->
@@ -26,7 +26,7 @@
         <description>Taken from episode 1 when Dino does all the work and takes over introducing Tyler, Jonathan, and Anthony. Greg on the other hand spoke enough on his own.</description>
         <itunes:duration>248</itunes:duration>
         <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>Yes</itunes:explicit>
         <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
     </item>
 
@@ -41,7 +41,7 @@
         <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crash stories they have to share. We are amazing with first impressions as you can tell.</description>
         <itunes:duration>3317</itunes:duration>
         <itunes:image href="https://anthonytag.github.io/bot-logo.jpeg"/>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>Yes</itunes:explicit>
         <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
     </item>
 </channel>
