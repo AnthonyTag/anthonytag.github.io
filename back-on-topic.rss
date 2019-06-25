@@ -3,7 +3,7 @@
     <channel>
         <title>Back On Topic</title>
         <link>https://soundcloud.com/backontopic</link>
-        <description>A podcast</description>
+        <description>From the morons that brought you That Loud Honda and The FAKE Greek, cthe brand new dumb milenial idea of bringing a podcast you didn't ask for. Straight out of their mom's basement, join Gregory, Anthony, Guzman, Dino, and other idiots in Back On Topic, a podcast about their attempts and failures in life as they constantly talk over each other and make no sense whatsoever. Maybe some facts or wisdom will poke through, but probably not.</description>
         <language>en</language>
         <itunes:image href="bot-logo.jpeg" />
         <image>
@@ -19,11 +19,27 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Comedy"/>
 
+        <!-- CLIP 1.1 -->
+        <item>
+            <title>Dino Introduces The Guys</title>
+            <description>Taken from episode 1 when Dino does all the work and takes over introducing Tyler, Jonathan, and Anthony. Greg on the other hand spoke enough on his own.</description>
+            <link>https://soundcloud.com/backontopic/dino-introduces-the-guys</link>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/638855436-backontopic-dino-introduces-the-guys.mp3" length="8017464"/>
+            <guid isPermaLink="false">eead0860-0d29-49e7-a49c-1c6eb8fc0ecb</guid>
+            <itunes:duration>248</itunes:duration>
+            <itunes:author>Dino Gonias</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <pubDate>Thu, 20 Jun 2019 20:00:00 +0000</pubDate>
+        </item>
+        
         <!-- EPISODE 1 -->
         <item>
             <title>Crashing Friends' Cars</title>
-            <description>Episode 1</description>
-            <link>https://podcast.rss.com/backontopic/?name=2019-06-23_attempt1_au_tracks_audio_1.mp3</link>
+            <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crash stories they have to share. We are amazing with first impressions as you can tell.</description>
+            <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
             <enclosure url="http://feeds.soundcloud.com/stream/638852832-backontopic-crashing-friends-cars-back-on-topic-1.mp3" length="106094432" type="audio/mpeg"/>
             <guid isPermaLink="false">0ccab4ae-7810-4269-b726-419fce8f7054</guid>
             <itunes:duration>3317</itunes:duration>
@@ -32,7 +48,7 @@
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <pubDate>Thu, 20 Jun 2019 19:48:11 +0000</pubDate>
+            <pubDate>Thu, 20 Jun 2019 19:00:00 +0000</pubDate>
         </item>
     </channel>
 </rss>
