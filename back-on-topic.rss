@@ -16,7 +16,7 @@
             <itunes:name>Anthony Tagliaferri</itunes:name>
             <itunes:email>contact.backontopic@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Comedy"/>
 
         <!-- EPISODE 1 -->
@@ -24,11 +24,11 @@
             <title>Crashing Friends' Cars</title>
             <description>Episode 1</description>
             <link>https://podcast.rss.com/backontopic/?name=2019-06-23_attempt1_au_tracks_audio_1.mp3</link>
-            <enclosure url="https://podcast.rss.com/backontopic/?name=2019-06-23_attempt1_au_tracks_audio_1.mp3" length="106094432" type="audio/mpeg"/>
+            <enclosure url="http://feeds.soundcloud.com/stream/638852832-backontopic-crashing-friends-cars-back-on-topic-1.mp3" length="106094432" type="audio/mpeg"/>
             <guid isPermaLink="false">0ccab4ae-7810-4269-b726-419fce8f7054</guid>
             <itunes:duration>3317</itunes:duration>
             <itunes:author>Gregory Nemesdy</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
