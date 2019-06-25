@@ -3,7 +3,7 @@
     <channel>
         <title>Back On Topic</title>
         <link>https://soundcloud.com/backontopic</link>
-        <description>From the morons that brought you That Loud Honda and The FAKE Greek, cthe brand new dumb milenial idea of bringing a podcast you didn't ask for. Straight out of their mom's basement, join Gregory, Anthony, Guzman, Dino, and other idiots in Back On Topic, a podcast about their attempts and failures in life as they constantly talk over each other and make no sense whatsoever. Maybe some facts or wisdom will poke through, but probably not.</description>
+        <description>From the morons that brought you That Loud Honda and The FAKE Greek, the brand new dumb millennial idea of bringing a podcast you didn't ask for. Straight out of their mom's basement, join Gregory, Anthony, Guzman, Dino, and other idiots in Back On Topic, a podcast about their attempts and failures in life as they constantly talk over each other and make no sense whatsoever. Maybe some facts or wisdom will poke through, but probably not.</description>
         <language>en</language>
         <itunes:image href="bot-logo.jpeg" />
         <image>
@@ -38,7 +38,7 @@
         <!-- EPISODE 1 -->
         <item>
             <title>Crashing Friends' Cars</title>
-            <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crash stories they have to share. We are amazing with first impressions as you can tell.</description>
+            <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crashing stories they have to share. We are amazing with first impressions as you can tell.</description>
             <link>https://soundcloud.com/backontopic/crashing-friends-cars-back-on-topic-1</link>
             <enclosure url="http://feeds.soundcloud.com/stream/638852832-backontopic-crashing-friends-cars-back-on-topic-1.mp3" length="106094432" type="audio/mpeg"/>
             <guid isPermaLink="false">0ccab4ae-7810-4269-b726-419fce8f7054</guid>
