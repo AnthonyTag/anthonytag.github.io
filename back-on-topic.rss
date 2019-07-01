@@ -19,6 +19,22 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Comedy"/>
 
+        <!-- EPISODE 2 -->
+        <item>
+            <title>Tarantulas</title>
+            <description>Episode 2 is all about dogs, traveling the world, and spiders.</description>
+            <link>https://soundcloud.com/backontopic/tarantulas-back-on-topic-2</link>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/644741052-backontopic-tarantulas-back-on-topic-2.mp3" length="106335684"/>
+            <guid isPermaLink="false">bed0d11e-81e3-45d7-8c51-86117df3b467</guid>
+            <itunes:duration>3325</itunes:duration>
+            <itunes:author>Gregory Nemesdy</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Mon, 1 Jul 2019 08:00:00 +0000</pubDate>
+        </item>
+        
         <!-- CLIP 1.1 -->
         <item>
             <title>Dino Introduces The Guys</title>
