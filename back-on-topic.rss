@@ -19,6 +19,22 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Comedy"/>
 
+        <!-- EPISODE 4 -->
+        <item>
+            <title>Area 51</title>
+            <description>Greg, Julia, and Gill get Anthony in the loop of the plans to infiltrate Area 51 on September 20th. They also go on a few inappro-pro tangents along the way.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode4.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode4.mp3"/>
+            <guid isPermaLink="false">1366fa09-1d22-4ead-92b2-aa88ef5e6340</guid>
+            <itunes:duration>1773</itunes:duration>
+            <itunes:author>Gregory Nemesdy</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Mon, 29 Jul 2019 08:00:00 +0000</pubDate>
+        </item>
+        
         <!-- EPISODE 3 -->
         <item>
             <title>Boys vs. Girls</title>
