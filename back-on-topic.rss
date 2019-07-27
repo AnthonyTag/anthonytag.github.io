@@ -19,6 +19,22 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Comedy"/>
 
+        <!-- EPISODE 3 -->
+        <item>
+            <title>Boys vs. Girls</title>
+            <description>Anthony and Guzman are joined by special guests Caroline, Felicity, and Juliet and discuss some differences between guys and girls in relationships as well as some personal preferences. If we come off as jerks it's okay we admit we are indeed jerks.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode3.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode3.mp3"/>
+            <guid isPermaLink="false">263cea4b-af72-41d0-820b-49526a18d814</guid>
+            <itunes:duration>3533</itunes:duration>
+            <itunes:author>Anthony Tagliaferri</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Sat, 27 Jul 2019 08:00:00 +0000</pubDate>
+        </item>
+        
         <!-- EPISODE 2 -->
         <item>
             <title>Tarantulas</title>
