@@ -19,6 +19,22 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Comedy"/>
 
+        <!-- EPISODE 5 -->
+        <item>
+            <title>Marketing and Dreams</title>
+            <description>Guz, Anthony, Juliet, and Mike talk goals, education, marketing, and, I'll be honest, we get a little pretentious for a bit. Take it with a grain of salt because we are not intelligent people.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode5.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode5.mp3"/>
+            <guid isPermaLink="false">6aa5d893-315b-441b-a350-a3cc37e69a25</guid>
+            <itunes:duration>3162</itunes:duration>
+            <itunes:author>Jonathan Guzman</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Fri, 2 Aug 2019 12:00:00 +0000</pubDate>
+        </item>
+        
         <!-- EPISODE 4 -->
         <item>
             <title>Area 51</title>
