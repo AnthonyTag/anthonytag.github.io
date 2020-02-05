@@ -59,9 +59,9 @@ social_settings:
 color_settings:
   background_color: '#121212'
   background_alt_color: '#181818'
-  text_dark_color: '#dddddd'
-  text_medium_color: '#aaaaaa'
-  text_light_color: '#555555'
+  text_dark_color: '#555555'
+  text_medium_color: '#cccccc'
+  text_light_color: '#dddddd'
   accent_color: '#00cdcd'
   border_color: '#000000'
   overlay_background_color: '#161B21'
