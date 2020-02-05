@@ -1,7 +1,7 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: about me
+subtitle: a page about me.
+description: this page talks about me.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
