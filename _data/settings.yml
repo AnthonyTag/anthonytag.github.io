@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Anthony
-  site_tagline: 
+  site_tagline: yes.
   favicon_image: /images/favicon.png
 
 header_settings:
