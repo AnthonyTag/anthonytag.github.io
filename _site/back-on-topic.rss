@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0">
+    <channel>
+        <title>Back On Topic</title>
+        <link>https://open.spotify.com/show/2eEDkodiaKdFmPwq3pRjeV?si=8zayBdzRQ1ySnEr2cBMBCw</link>
+        <description>Straight out of their mom's basement, join Gregory, Anthony, Guzman, Dino, and other idiots in Back On Topic, a podcast about their attempts and failures in life as they constantly talk over each other and make no sense whatsoever. Maybe some facts or wisdom will poke through, but probably not.</description>
+        <language>en</language>
+        <itunes:image href="https://i.imgur.com/Zkri9hv.jpg" />
+        <image>
+            <url>https://i.imgur.com/Zkri9hv.jpg</url>
+            <title>Back On Topic</title>
+            <link>https://open.spotify.com/show/2eEDkodiaKdFmPwq3pRjeV?si=8zayBdzRQ1ySnEr2cBMBCw</link>
+        </image>
+        <itunes:author>Anthony Tagliaferri</itunes:author>
+        <itunes:owner>
+            <itunes:name>Anthony Tagliaferri</itunes:name>
+            <itunes:email>contact.backontopic@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:category text="Comedy"/>
+
+        <!-- EPISODE 6 -->
+        <item>
+            <title>Meeting New People</title>
+            <description>This week we got some Back On Topic on the road! Join Anthony, Caroline, Danny, and, special Montreal guest, Trevor, as they relive meeting each other with some embarrassing stories.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode6.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode6.mp3"/>
+            <guid isPermaLink="false">7d72de13-383a-42ee-bb21-4da8a6509731</guid>
+            <itunes:duration>1792</itunes:duration>
+            <itunes:author>Anthony Tagliaferri</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Fri, 9 Aug 2019 12:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- EPISODE 5 -->
+        <item>
+            <title>Marketing and Dreams</title>
+            <description>Guz, Anthony, Juliet, and Mike talk goals, education, marketing, and, I'll be honest, we get a little pretentious for a bit. Take it with a grain of salt because we are not intelligent people.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode5.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode5.mp3"/>
+            <guid isPermaLink="false">6aa5d893-315b-441b-a350-a3cc37e69a25</guid>
+            <itunes:duration>3162</itunes:duration>
+            <itunes:author>Jonathan Guzman</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Fri, 2 Aug 2019 12:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- EPISODE 4 -->
+        <item>
+            <title>Area 51</title>
+            <description>Greg, Julia, and Gill get Anthony in the loop of the plans to infiltrate Area 51 on September 20th. They also go on a few inappro-pro tangents along the way.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode4.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode4.mp3"/>
+            <guid isPermaLink="false">1366fa09-1d22-4ead-92b2-aa88ef5e6340</guid>
+            <itunes:duration>1773</itunes:duration>
+            <itunes:author>Gregory Nemesdy</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Mon, 29 Jul 2019 08:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- EPISODE 3 -->
+        <item>
+            <title>Boys vs. Girls</title>
+            <description>Anthony and Guzman are joined by special guests Caroline, Felicity, and Juliet and discuss some differences between guys and girls in relationships as well as some personal preferences. If we come off as jerks it's okay we admit we are indeed jerks.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode3.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode3.mp3"/>
+            <guid isPermaLink="false">263cea4b-af72-41d0-820b-49526a18d814</guid>
+            <itunes:duration>3533</itunes:duration>
+            <itunes:author>Anthony Tagliaferri</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Sat, 27 Jul 2019 08:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- EPISODE 2 -->
+        <item>
+            <title>Tarantulas</title>
+            <description>Episode 2 is all about dogs, traveling the world, and spiders.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode2.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode2.mp3" length="106335684"/>
+            <guid isPermaLink="false">bed0d11e-81e3-45d7-8c51-86117df3b467</guid>
+            <itunes:duration>3325</itunes:duration>
+            <itunes:author>Gregory Nemesdy</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Mon, 1 Jul 2019 08:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- CLIP 1.1 -->
+        <item>
+            <title>Dino Introduces The Guys</title>
+            <description>Taken from episode 1 when Dino does all the work and takes over introducing Tyler, Jonathan, and Anthony. Greg on the other hand spoke enough on his own.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/clip_ep1_intros.mp3</link>
+            <enclosure type="audio/mpeg" url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/clip_ep1_intros.mp3" length="8017464"/>
+            <guid isPermaLink="false">eead0860-0d29-49e7-a49c-1c6eb8fc0ecb</guid>
+            <itunes:duration>248</itunes:duration>
+            <itunes:author>Dino Gonias</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <pubDate>Thu, 20 Jun 2019 20:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- EPISODE 1 -->
+        <item>
+            <title>Crashing Friends' Cars</title>
+            <description>Greg, Dino, Tyler, Jonathan, and Anthony introduce themselves and discuss the numerous amount of car crashing stories they have to share. We are amazing with first impressions as you can tell.</description>
+            <link>https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode1.mp3</link>
+            <enclosure url="https://atagliaferri.nyc3.cdn.digitaloceanspaces.com/episode1.mp3" length="106094432" type="audio/mpeg"/>
+            <guid isPermaLink="false">0ccab4ae-7810-4269-b726-419fce8f7054</guid>
+            <itunes:duration>3317</itunes:duration>
+            <itunes:author>Gregory Nemesdy</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <pubDate>Thu, 20 Jun 2019 19:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

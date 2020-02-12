@@ -29,9 +29,9 @@ grid_settings:
 #  send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: 'https://twitter.com/AnthonnyTag'
   instagram_url: 'https://www.instagram.com/creative.sometimes/'
+  twitter_url: 'https://twitter.com/AnthonnyTag' 
+  facebook_url: ''
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -57,13 +57,13 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#121212'
-  background_alt_color: '#181818'
-  text_dark_color: '#555555'
-  text_medium_color: '#cccccc'
-  text_light_color: '#dddddd'
-  accent_color: '#00cdcd'
-  border_color: '#000000'
+  background_color: '#23252a'
+  background_alt_color: '#333333'
+  text_dark_color: '#dfdfdf'
+  text_medium_color: '#9f9f9f'
+  text_light_color: '#4f4f4f'
+  accent_color: '#009ece'
+  border_color: '#2f3136'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
@@ -90,7 +90,7 @@ font_settings:
   menu:
     small_size: 30
     medium_size: 17
-    large_size: 18
+    large_size: 30
     weight: 400
     letter_spacing: 0
   h1:
