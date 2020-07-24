@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
   overlay_opacity: 0.7
 
@@ -14,8 +14,8 @@ menu_settings:
       url: '/'
 #    - title: 'Projects'
 #      url: '/projects/'
-    - title: 'about'
-      url: '/about'
+#    - title: 'about'
+#      url: '/about'
 #    - title: 'Contact'
 #      url: '/contact'
 
@@ -30,7 +30,7 @@ grid_settings:
 
 social_settings:
   instagram_url: 'https://www.instagram.com/creative.sometimes/'
-  twitter_url: 'https://twitter.com/AnthonnyTag' 
+  twitter_url: 'https://twitter.com/AnthonnyTag'
   facebook_url: ''
   snapchat_url: ''
   youtube_url: ''
